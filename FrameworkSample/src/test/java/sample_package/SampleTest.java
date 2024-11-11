@@ -11,7 +11,6 @@ public class SampleTest extends BaseClass {
 	public void sampleTest01() throws InterruptedException {
     driver.switchTo().newWindow(WindowType.TAB);
     driver.navigate().to("https://www.facebook.com/");
-    driver.quit();
     driver.close();
 	}
 }
