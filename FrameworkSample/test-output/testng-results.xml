@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T13:00:27 IST" name="Default suite" finished-at="2024-10-21T13:00:45 IST" duration-ms="17393">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T13:00:27 IST" name="Default test" finished-at="2024-10-21T13:00:45 IST" duration-ms="17393">
+      <class name="sample_package.SampleTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:sample_package.SampleTest@34123d65]" started-at="2024-10-21T13:00:27 IST" name="configBS" finished-at="2024-10-21T13:00:27 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:sample_package.SampleTest@34123d65]" started-at="2024-10-21T13:00:27 IST" name="configBC" finished-at="2024-10-21T13:00:40 IST" duration-ms="12663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:sample_package.SampleTest@34123d65]" started-at="2024-10-21T13:00:40 IST" name="configBM" finished-at="2024-10-21T13:00:41 IST" duration-ms="1463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="sampleTest01()[pri:0, instance:sample_package.SampleTest@34123d65]" started-at="2024-10-21T13:00:41 IST" name="sampleTest01" finished-at="2024-10-21T13:00:44 IST" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest01 -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:sample_package.SampleTest@34123d65]" started-at="2024-10-21T13:00:44 IST" name="configAC" finished-at="2024-10-21T13:00:45 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- sample_package.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
