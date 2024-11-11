@@ -12,5 +12,6 @@ public class SampleTest extends BaseClass {
     driver.switchTo().newWindow(WindowType.TAB);
     driver.navigate().to("https://www.facebook.com/");
     driver.close();
+    System.out.println("---");
 	}
 }
